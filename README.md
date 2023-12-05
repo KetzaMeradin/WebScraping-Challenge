@@ -106,3 +106,10 @@ B (+/-)	80–89
 C (+/-)	70–79
 D (+/-)	60–69
 F (+/-)	< 60
+
+Inspiration/Sources:
+https://www.geeksforgeeks.org/beautifulsoup-scraping-paragraphs-from-html/
+
+
+
+
